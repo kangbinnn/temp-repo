@@ -1,4 +1,4 @@
-# official Repository of Neural Intelligence Laboratory
-#### Principal Investigator (PI): Dr. Youngmin Oh
+# official Repository of Kim Gyeong Bin
+#### Hello I'm student of Gachon university.
 
-In Neural Intelligence Lab (NIL)
+Nice to meet you. Thank tou for come to my repository
